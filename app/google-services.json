@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846925376965",
+    "firebase_url": "https://onlinequizlearning.firebaseio.com",
+    "project_id": "onlinequizlearning",
+    "storage_bucket": "onlinequizlearning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846925376965:android:d1c6aa7babb96dfc",
+        "android_client_info": {
+          "package_name": "com.luvizatnika1501512.uasmobprog.myonlinequizlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846925376965-f7itgq0tml3nng11f0p2114akg3jas8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luvizatnika1501512.uasmobprog.myonlinequizlearning",
+            "certificate_hash": "7c6f254257aae5a2957503574fb0d9a4ad15acce"
+          }
+        },
+        {
+          "client_id": "846925376965-1i403o8lhsedu5unv4ihh1dil19vd7fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPH1D3e4bRU7sHFXpI7ucv3H4Ml58JHb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846925376965-1i403o8lhsedu5unv4ihh1dil19vd7fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

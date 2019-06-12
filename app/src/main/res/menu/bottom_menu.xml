@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app1="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_soal"
+        android:enabled="true"
+        android:title="Soal"
+        android:icon="@drawable/ic_import_contacts_black_24dp"
+        app1:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_peringkat"
+        android:enabled="true"
+        android:title="Tulisan"
+        android:icon="@drawable/ic_subject_black_24dp"
+        app1:showAsAction="ifRoom"/>
+
+</menu>
